@@ -1,0 +1,34 @@
+{
+    "dbName": "Pontificia Unversidad Católica Madre y Maestra",
+    "campus": [
+      {
+        "name": "Campus de Santiago",
+        "adress": "Autopista Duarte Km 1 1/2",
+        "city": "Santiago, República Dominicana",
+        "phone": "(809) 580-1962",
+        "fax": "(809) 582-4549"
+      },
+      {
+        "name": "Campus de Santo Domingo",
+        "adress": "Abraham Lincoln esq. Simón Bolívar",
+        "city": "Santo Domingo, República Dominicana.",
+        "phone": "(809) 535-0111",
+        "fax": "(809) 534-7060"
+      }
+    ],
+    "medios": [
+        {
+        "name": "Línea de Atensión",
+        "phone": "1(809) 200 1962",
+        "mail":"info@pucmm.edu.do"
+    },
+    {
+        "name": "Redes Sociales",
+        "facebook": "http://www.facebook.com/pucmm/",
+        "Instagram":"http://www.instagram.com/pucmm",
+        "Youtube":"http://www.youtube.com/pucmmtv/",
+        "Linkedin":"https://www.linkedin.com/edu/school?id=12020",
+        "Twitter":"http://twitter.com/pucmm/"
+    }
+    ]
+  }
