@@ -1,7 +1,7 @@
 {
     "dbName":"Pontificia Unversidad Católica Madre y Maestra",
     "active":true,
-    "campus":[
+    "footer":[
        {
           "name":"Campus de Santiago",
           "adress":"Autopista Duarte Km 1 1/2",
@@ -15,9 +15,7 @@
           "city":"Santo Domingo, República Dominicana.",
           "phone":"(809) 535-0111",
           "fax":"(809) 534-7060"
-       }
-    ],
-    "medios":[
+       },
        {
           "name":"Línea de Atensión",
           "phone":"1(809) 200 1962",
