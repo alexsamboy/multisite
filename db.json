@@ -1,5 +1,6 @@
 {
     "dbName": "Pontificia Unversidad Católica Madre y Maestra",
+    "active": true,
     "campus": [
       {
         "name": "Campus de Santiago",
